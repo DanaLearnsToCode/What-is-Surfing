@@ -10,4 +10,8 @@ background-color: PapayaWhip;
 }
 img{
   border: 1px solid;
+  opacity: 0.5;
+}
+img:hover{
+ opacity: 1.0; 
 }
