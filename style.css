@@ -6,6 +6,8 @@ font-weight: bold;
 }
 table{
 width:700px;
-background-color: PapayaWhip
+background-color: PapayaWhip;
 }
-img.solid {border-style: solid;}
+img{
+  border: 1px solid;
+}
